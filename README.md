@@ -1,2 +1,2 @@
-# Telegraph RPC
+# Telegraph Remote Procedure Call
 Використовує власний транспортний протокол поверх UDP та власний формат серіалізації даних
