@@ -1,1 +1,1 @@
-# MULTIX RPC
+# Telegraph Remote Procedure Call
